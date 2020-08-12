@@ -10,6 +10,9 @@ organizations:
 bio: Politólogo con estudios de maestría en Gerencia Social y especialista de Estadística
   Aplicada.
 social:
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A
