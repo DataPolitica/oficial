@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 headless = true
 subtitle = ""
 title = "Featured Publications"
