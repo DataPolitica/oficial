@@ -19,9 +19,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/christianchr/
-- icon: cv
-  icon_pack: fab
-  link: https://www.linkedin.com/in/christianchr/
 email: ''
 user_groups:
 - Researchers
