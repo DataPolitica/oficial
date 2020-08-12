@@ -31,7 +31,7 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Ir al canal youtube"
   cta_url = "https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A"
-  cta_icon_pack = "fas"
+  cta_icon_pack = "fab"
   cta_icon = "youtube"
 
 [[item]]
