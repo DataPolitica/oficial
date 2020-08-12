@@ -16,12 +16,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://web.facebook.com/datapoliticaCR
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/christianchr/
 email: ''
 user_groups:
 - Researchers
