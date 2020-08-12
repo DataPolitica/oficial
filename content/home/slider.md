@@ -32,7 +32,7 @@ height = ""
   cta_label = "Ir al canal youtube"
   cta_url = "https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Left"
