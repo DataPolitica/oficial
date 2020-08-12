@@ -29,8 +29,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Ir al canal youtube"
+  cta_url = "https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
