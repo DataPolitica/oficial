@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para el análisis político 1 - PUCP
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Introducción a la estadística para ciencias sociales con R Studio
+summary: En este curso se podrá encontrar información introductoria para el aprendizaje de Estadística Aplicada utilizando el software R Studio.
 weight: 1
 
 # Page metadata.
