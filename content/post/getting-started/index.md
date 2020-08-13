@@ -1,18 +1,19 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+title: 'Sobre el mapa de la pobreza 2018'
+subtitle: 'Apuntos sobre metodología de cálculo'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
-- 吳恩達
+
 tags:
-- Academic
-- 开源
+- INEI
+- Pobreza monetaria
+- Estadística
 categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+- Artículo de opinión
+
+date: "2020-03-03T00:00:00Z"
+lastmod: "2019-03-03T00:00:00Z"
 featured: false
 draft: false
 
@@ -34,74 +35,12 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+Durante la última semana, el Instituto Nacional de Estadística e Informática presentó el Mapa de la Pobreza Monetaria 2018, que muestra la distribución geográfica de la pobreza monetaria a nivel de provincia y distrito. Esta herramienta es una actualización de la última medición realizada el año 2013 y que ha servido como insumo y guía para la focalización de políticas públicas (como los programas sociales implementados por el MIDIS) y la asignación de recursos públicos. Para la presente actualización principalmente se ha utilizado como insumo la Encuesta Nacional de Hogares ENAHO (2017 y 2018) y los resultados del último Censo Nacional de Población, Vivienda y Comunidades Indígenas del año 2017 (así también se utilizó otras fuentes como el CENAGRO, entre otros). 
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
+Hay que tener en cuenta que la definición de pobreza es de tipo monetario, es decir, se define como pobres a aquellos individuos que residen en hogares cuyo gasto per cápita mensual está por debajo del valor de una canasta de productos que permite satisfacer las necesidades básicas. Por ello, al valor de esta canasta básica se le conoce como línea de pobreza, aquellos ubicados por debajo de dicha línea son categorizados como pobres. Si bien el resultado de este tipo de metodología de medición se asemeja a otras que son aplicadas por el INEI, como el cálculo de la pobreza por necesidades básicas insatisfechas, la medición de la pobreza monetaria ya es un instrumento que se ha posicionado como principal herramienta para la toma de decisiones del Estado. 
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [**Ask a question** on the forum](https://discourse.gohugo.io)
-- 👥 [Chat with the **community**](https://spectrum.chat/academic)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+Viendo los resultados de este estudio podemos resaltar algunos puntos generales importante: 
+1)	La pobreza a nivel nacional se redujo de 23.9 a 20.5 en el periodo 2013 – 2018
+2)	De los 1874 distritos, 713 (38.1%) tiene una pobreza monetaria de 40% a más y afecta al 13.4% de la población total del país; 719 (38.4%) distritos poseen un nivel de pobreza entre el 20 y 40% y afecta al 24.4% de la población; y en 442 (23.6%) distritos la pobreza monetaria es menor al 20% y agrupa al 62.3%. 
+3)	El INEI separa a los distritos en grupos a fin de poder realizar análisis en bloque. Resalta el hecho que el grupo 1, integrado por 3 distritos que han registrado los mayores niveles de pobreza, está integrado por 1 distrito de Ayacucho (Uchuraccay) y 2 distritos de Cajamarca (Anguia y Oxamarca). De la misma manera, si se analizan los 20 distritos más pobres del país, 16 de estos se encuentran en Cajamarca. 
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" title="Academic is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-**Key features:**
-
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Academic comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://sourcethemes.com/academic/themes/) for your site. Themes are fully [customizable](https://sourcethemes.com/academic/docs/customization/#custom-theme).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize and deploy your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Updating
-
-[View the Update Guide](https://sourcethemes.com/academic/docs/update/).
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of [updates](https://sourcethemes.com/academic/updates).
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
