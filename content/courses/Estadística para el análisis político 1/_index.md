@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para ciencias sociales con R Studio - (I)
-summary: En este curso se podrá encontrar información introductoria para el aprendizaje de Estadística Aplicada utilizando el software R Studio. Se abordará temas de procesamiento de data, análisis exploratorio de datos e introducción a la estadística inferencial.
+linktitle: Estadística para ciencias sociales con R Studio - (II)
+summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
 # Page metadata.
-title: Introducción
+title: Overview
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Introducción
+    name: Overview
     weight: 1
 ---
 
