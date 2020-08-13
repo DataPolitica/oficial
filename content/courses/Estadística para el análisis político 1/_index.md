@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para ciencias sociales con R Studio - (II)
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Estadística para ciencias sociales con R Studio - (I)
+summary: En este curso iniciaremos el aprendizame de la estadística para las ciencias sociales utilizando el software R Studio. Veremos estadística descriptiva y elementos de estadística inferencial. 
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Introducción
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
