@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Especialista en investigación cuantitativa y gestión social"
-  content = "Experiencia en diversas regiones del país"
+  content = "Experiencia en trabajo de campo en diversas regiones del país"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
