@@ -35,8 +35,8 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Especialista en investigación cuantitativa y gestión social"
+  content = "Experiencia en diversas regiones del país"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Cofundador de Leyendo el Poder"
+  content = "Grupo de diálogo y discusión de Ciencia Política y Estudios Internacionales"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
