@@ -1,7 +1,7 @@
 ---
 title: 'Sobre el mapa de la pobreza 2018'
 subtitle: 'Apuntos sobre metodología de cálculo'
-summary: Create a beautifully simple website in under 10 minutes.
+summary: Apuntes sobre la metodología de cálculo del índice de pobreza monetaria del INEI.
 authors:
 - admin
 
