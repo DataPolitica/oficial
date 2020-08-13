@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Estadística para ciencias sociales con R Studio - (I)
-summary: En este curso se podrá encontrar información introductoria para el aprendizaje de Estadística Aplicada utilizando el software R Studio.
+summary: En este curso se podrá encontrar información introductoria para el aprendizaje de Estadística Aplicada utilizando el software R Studio. Se abordará temas de procesamiento de data, análisis exploratorio de datos e introducción a la estadística inferencial.
 weight: 1
 
 # Page metadata.
