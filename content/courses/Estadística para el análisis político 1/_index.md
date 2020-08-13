@@ -5,7 +5,7 @@ summary: En este curso se podrá encontrar información introductoria para el ap
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Introducción
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: Introducción
     weight: 1
 ---
 
