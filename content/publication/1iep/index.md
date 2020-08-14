@@ -65,12 +65,6 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+El fenómeno del cambio climático comprende la variación del clima que es atribuible, de manera directa o indirecta, a actividades humanas, las cuales alteran la composición de la atmósfera que se refleja en la variación del clima a lo largo del tiempo (ONU 2002: 3). Desde el ámbito internacional, diversos organismos han remarcado la necesidad de generar medidas desde el Estado para resolver este problema que se plantea como interés público. Así, desde 1992 la Convención Marco de las Naciones Unidas sobre el Cambio Climático, insta a los estados integrantes, que reúne a casi la totalidad de los países del mundo, a tomar medidas a fin de prever, prevenir y reducir al mínimo las causas del cambio climático y sus efectos. Uno de los objetivos a alcanzar es garantizar la sostenibilidad del medio ambiente, para lo cual se requiere la construcción de un marco institucional para la gestión sostenible de los recursos naturales (biomasa, bosques, océanos y ecosistemas terrestres), la reducción de la contaminación y emisión de gases, y la defensa de los derechos de las comunidades afectadas por los proyectos de las empresas extractivas. En esta línea, en el caso peruano, en los últimos años, se han desarrollado una serie de iniciativas legales e institucionales, que permitirán optimizar la toma de decisiones en materia de adaptación al cambio climático.
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Sin embargo, para la exitosa implementación de tales políticas públicas se requiere un marco institucional estable y una gestión pública eficiente. En este contexto uno de los riesgos más grandes que posee el desarrollo exitoso de políticas públicas en esta materia es la corrupción. Dicho fenómeno se manifiesta debido a que el desarrollo de políticas para la adaptación del cambio climático y la mitigación de sus efectos, comprende una transformación de la forma en que se desarrollan las actividades económicas en nuestra sociedad, específicamente en el uno de los aspectos más relevantes, la gestión de recursos naturales. En el presente artículo se brinda un acercamiento a la identificación de riesgos de corrupción, a fin de asegurar el fomento de una gestión sostenible de los recursos naturales y la construcción de un sistema de gobernanza climática. Así también, se analizarán las características de los países en materia de gobernanza de recursos naturales y cómo se pueden proponer iniciativas que reduzcan los riesgos de corrupción en este campo.
