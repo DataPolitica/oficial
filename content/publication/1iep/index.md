@@ -1,15 +1,16 @@
 ---
-title: "Construyendo gobernanza climática: identificando los riesgos de corrupción en la gestión de recursos naturales"
+title: "An example journal article"
 authors:
 - admin
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2014-09-14T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-08-13T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,24 +19,22 @@ publishDate: "2020-08-13T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista Argumentos, 8*(4)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: El fenómeno del cambio climático comprende la variación del clima que es atribuible, de manera directa o indirecta, a actividades humanas, las cuales alteran la composición de la atmósfera que se refleja en la variación del clima a lo largo del tiempo (ONU 2002: 3). Desde el ámbito internacional, diversos organismos han remarcado la necesidad de generar medidas desde el Estado para resolver este problema que se plantea como interés público. Así, desde 1992 la Convención Marco de las Naciones Unidas sobre el Cambio Climático, insta a los estados integrantes, que reúne a casi la totalidad de los países del mundo, a tomar medidas a fin de prever, prevenir y reducir al mínimo las causas del cambio climático y sus efectos. Uno de los objetivos a alcanzar es garantizar la sostenibilidad del medio ambiente, para lo cual se requiere la construcción de un marco institucional para la gestión sostenible de los recursos naturales (biomasa, bosques, océanos y ecosistemas terrestres), la reducción de la contaminación y emisión de gases, y la defensa de los derechos de las comunidades afectadas por los proyectos de las empresas extractivas. En esta línea, en el caso peruano, en los últimos años, se han desarrollado una serie de iniciativas legales e institucionales, que permitirán optimizar la toma de decisiones en materia de adaptación al cambio climático. Sin embargo, para la exitosa implementación de tales políticas públicas se requiere un marco institucional estable y una gestión pública eficiente. En este contexto uno de los riesgos más grandes que posee el desarrollo exitoso de políticas públicas en esta materia es la corrupción. Dicho fenómeno se manifiesta debido a que el desarrollo de políticas para la adaptación del cambio climático y la mitigación de sus efectos, comprende una transformación de la forma en que se desarrollan las actividades económicas en nuestra sociedad, específicamente en el uno de los aspectos más relevantes, la gestión de recursos naturales. En el presente artículo se brinda un acercamiento a la identificación de riesgos de corrupción, a fin de asegurar el fomento de una gestión sostenible de los recursos naturales y la construcción de un sistema de gobernanza climática. Así también, se analizarán las características de los países en materia de gobernanza de recursos naturales y cómo se pueden proponer iniciativas que reduzcan los riesgos de corrupción en este campo.
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Summary.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Gestión de recursos naturales
-- Corrupción
+- Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://argumentos-historico.iep.org.pe/wp-content/uploads/2014/11/chiroque_setiembre2014.pdf
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,3 +65,12 @@ projects: []
 slides: example
 ---
 
+{{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
