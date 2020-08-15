@@ -22,11 +22,11 @@
   name = "Publicaciones"
   url = "publication/"
   weight = 40
-
+#era 50
 [[main]]
   name = "Cursos"
   url = "courses/"
-  weight = 50
+  weight = 15
 
 [[main]]
   name = "Contacto"
