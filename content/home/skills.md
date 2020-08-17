@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Estadística aplicada"
+  name = "Estadística aplicada y análisis de datos"
   description = "Diseño e implementación de análisis cuantitativos y presentación de datos aplicados a las ciencias sociales"  
   
 [[feature]]
