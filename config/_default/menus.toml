@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Data Política"
+  name = "Manuales"
   url = "courses/"
   weight = 50
 
