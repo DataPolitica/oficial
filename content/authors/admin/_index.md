@@ -29,6 +29,6 @@ user_groups:
 
 Soy politólogo con estudios de maestría en Gerencia Social por la [Pontificia Universidad Católica del Perú PUCP](https://www.pucp.edu.pe/) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. 
 
-Actualmente me desempeño como especialista en investigación cuantitativa y Gestión Social para proyectos de inversión en [V&C Analistas](https://www.analistasperu.com/) y soy docente en la Facultad de Ciencias Sociales de la PUCP. 
+Actualmente me desempeño como especialista en gestión social para proyectos de inversión y soy docente en la Facultad de Ciencias Sociales de la PUCP. 
 
 Soy creador de [Data Política](https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A) y cofundador de [Leyendo el Poder](https://www.facebook.com/leyendoelpoder/).
