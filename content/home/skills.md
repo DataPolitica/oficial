@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "people-arrows"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Análisis en Gestión Social"
   description = "Realización de estudios sociales y diseño de herramientas de gestión social para proyectos de inversión en diversas regiones del país"
   
@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Docencia universitaria y capacitación"
+  name = "Docencia y capacitación"
   description = "dd"
 
 # Uncomment to use emoji icons.
