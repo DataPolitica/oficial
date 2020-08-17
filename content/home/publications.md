@@ -2,7 +2,7 @@
 active = true
 headless = true
 subtitle = ""
-title = "Artículos"
+title = "Publicaciones"
 weight = 90
 widget = "pages"
 [advanced]
