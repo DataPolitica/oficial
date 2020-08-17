@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para ciencias sociales con R Studio - (I)
+linktitle: Estadística para el análisis político con R Studio - (Primera parte)
 summary: En este curso iniciaremos el aprendizame de la estadística para las ciencias sociales utilizando el software R Studio. Veremos estadística descriptiva y elementos de estadística inferencial. 
 weight: 1
 

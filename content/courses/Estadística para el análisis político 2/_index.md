@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para ciencias sociales con R Studio - (II)
+linktitle: Estadística para el análisis político con R Studio - (Segunda parte)
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
