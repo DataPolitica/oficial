@@ -24,6 +24,3 @@ view = 3
 [design.background]
 
 +++
-{{% alert note %}}
-[Ver más]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
