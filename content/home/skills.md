@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "people-arrows"
-  icon_pack = "fab"
+  icon = "share-alt"
+  icon_pack = "fas"
   name = "Análisis en Gestión Social"
   description = "Realización de estudios sociales y diseño de herramientas de gestión social para proyectos de inversión en diversas regiones del país"
   
