@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Áreas de interés"
+title = "Ámbito de interés"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "people-arrows"
   icon_pack = "fas"
-  name = "R"
-  description = "90%"
+  name = "Análisis en Gestión Social"
+  description = "Realización de estudios sociales y diseño de herramientas de gestión social para proyectos de inversión en diversas regiones del país"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Estadística aplicada"
+  description = "Diseño de recojo de información, análisis y presentación de datos aplicados a las ciencias sociales"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Docencia universitaria y capacitación"
+  description = "dd"
 
 # Uncomment to use emoji icons.
 # [[feature]]
