@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "people-arrows"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "R"
   description = "90%"
   
