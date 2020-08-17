@@ -24,13 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Estadística aplicada"
-  description = "Diseño de recojo de información, análisis y presentación de datos aplicados a las ciencias sociales"  
+  description = "Diseño e implementación de análisis cuantitativos y presentación de datos aplicados a las ciencias sociales"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Docencia y capacitación"
-  description = "dd"
+  description = "Dictado de cursos universitarios y realización de programas de capacitación"
 
 # Uncomment to use emoji icons.
 # [[feature]]
