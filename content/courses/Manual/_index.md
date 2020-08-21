@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Data Política: Manual de R para ciencia política
-summary: En manual ha sido diseñado como guía para el aprendizaje de estadística para el análisis político utilizando el software R Studio.  
+linktitle: Data Política - Manual de R para ciencia política
+summary: Este es un libro de la csm.
 weight: 1
 
 # Page metadata.
-title: Introducción
+title: Overview
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Introducción
+    name: Overview
     weight: 1
 ---
 
