@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Estadística para el análisis político con R Studio - (Primera parte)
-summary: En este curso iniciaremos el aprendizame de la estadística para las ciencias sociales utilizando el software R Studio. Veremos estadística descriptiva y elementos de estadística inferencial. 
+linktitle: Data Política: Manual de R para ciencia política
+summary: En manual ha sido diseñado como guía para el aprendizaje de estadística para el análisis político utilizando el software R Studio.  
 weight: 1
 
 # Page metadata.
