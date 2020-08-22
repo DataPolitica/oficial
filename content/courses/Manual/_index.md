@@ -29,8 +29,7 @@ Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software
 Lo más resaltante de este manual es:
 
 * **Presenta de una manera fácil, ordenada y práctica los principales temas en estadística aplicada**
-* **Incorpora herramientas audiovisuales al proceso de aprendizaje de estadística en ciencias sociales**
-* **Utiliza memes**
+* **Incorpora videos al proceso de aprendizaje de estadística en ciencias sociales (canal de Youtube Data Política)**
 
 El presente manual se originó en el marco de mi labor docente en la Facultad de Ciencia Sociales de la Pontificia Universidad Católica del Perú.
 
@@ -41,7 +40,7 @@ Es creador de Data Política (canal de youtube para la difusión de estadística
 
 ## Sugerencia de citado
 
-Chiroque, Christian (2020) *Data Política - Manual de R para politólogos*. Lima: Pontificia Universidad Católica del Perú
+Chiroque, Christian (2020) *Data Política - Manual de R para politólogos*. Lima.
 
 
 
