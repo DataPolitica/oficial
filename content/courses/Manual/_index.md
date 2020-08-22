@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Introducción
+linktitle: Presentación
 summary: Este es un libro de la csm.
 weight: 1
 
@@ -17,12 +17,12 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Introducción
+    name: Presentación
     weight: 1
 ---
 # Manual de R para politólogos
 
-## Introducción
+## Presentación
 
 Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software R (y R Studio) y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
 
