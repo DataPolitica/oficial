@@ -5,7 +5,7 @@ summary: Este es un libro de la csm.
 weight: 1
 
 # Page metadata.
-title: Data Política - Manual de R para ciencia política
+title: Data Política - Manual de R para politólogos
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
