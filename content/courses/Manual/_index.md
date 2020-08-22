@@ -28,7 +28,7 @@ Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software
 
 Lo más resaltante de este manual es:
 
-* **Presenta de una manera fácil y práctica los principales temas en estadística aplicada**
+* **Presenta de una manera fácil, ordenada y práctica los principales temas en estadística aplicada**
 * **Incorpora herramientas audiovisuales al proceso de aprendizaje de estadística en ciencias sociales**
 * **Utiliza memes**
 
