@@ -35,14 +35,13 @@ Lo más resaltante de este manuel es que:
 El presente manual se originó en el marco de mi labor docente en la Facultad de Ciencia Sociales de la Pontificia Universidad Católica del Perú.
 
 ## Sobre el autor
-Christian Chiroque Ruiz
-Soy politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú PUCP y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Actualmente me desempeño como especialista en gestión social para proyectos de inversión y soy docente en la Facultad de Ciencias Sociales de la PUCP.
+Christian Chiroque Ruiz. Politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú PUCP y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Se desempeña como especialista en gestión social para proyectos de inversión y es docente de Estadística Aplicada para el análisis político en la Facultad de Ciencias Sociales de la PUCP.
 
-Soy creador de Data Política y cofundador de Leyendo el Poder.
+Es creador de Data Política (canal de youtube para la difusión de estadística aplicada) y cofundador de Leyendo el Poder (grupo de debate de teorías de ciencia política y estudios internacionales).
 
 ## Sugerencia de citado
 
-Chiroque, Christian (2020) Data Política - *Manual de R para politólogos*. Lima: Pontificia Universidad Católica del Perú
+Chiroque, Christian (2020) *Data Política - Manual de R para politólogos*. Lima: Pontificia Universidad Católica del Perú
 
 
 
