@@ -21,19 +21,19 @@ menu:
     weight: 1
 ---
 
-## Flexibility
+## Introducción
 
-This feature can be used for publishing content such as:
+Este `libro` fue creado como un soporte para el aprendizaje del software R (y R Studio).
 
-* **Online courses**
-* **Project or software documentation**
+* **Presenta de una manera fácil y práctica los principales temas en estadística aplicada**
+* **Incorpora herramientas audiovisuales al proceso de aprendizaje de estadística en ciencias sociales**
 * **Tutorials**
 
 The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
-## Delete tutorials
+## Sobre el autor
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+
 
 ## Update site menu
 
