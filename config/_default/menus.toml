@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Manual de R"
-  url = "courses/"
+  url = "courses/manual/"
   weight = 50
 
 [[main]]
