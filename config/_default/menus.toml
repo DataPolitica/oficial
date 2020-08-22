@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Manuales de R"
+  name = "Manual de R"
   url = "courses/"
   weight = 50
 
