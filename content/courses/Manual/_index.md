@@ -27,7 +27,7 @@ Este `libro` fue creado como un soporte para el aprendizaje del software R (y R 
 
 * **Presenta de una manera fácil y práctica los principales temas en estadística aplicada**
 * **Incorpora herramientas audiovisuales al proceso de aprendizaje de estadística en ciencias sociales**
-* **Tutorials**
+* **Utiliza memes**
 
 The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
