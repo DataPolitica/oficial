@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Data Política - Manual de R para ciencia política
+linktitle: Introducción
 summary: Este es un libro de la csm.
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Data Política - Manual de R para ciencia política
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: Introducción
     weight: 1
 ---
 
