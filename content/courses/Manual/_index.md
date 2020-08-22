@@ -5,7 +5,7 @@ summary: Este es un libro de la csm.
 weight: 1
 
 # Page metadata.
-title: Data Política - Manual de R para politólogos
+title: Data Política 
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,10 +20,13 @@ menu:
     name: Introducción
     weight: 1
 ---
+# Manual de R para politólogos
 
 ## Introducción
 
-Este `libro` fue creado como un soporte para el aprendizaje del software R (y R Studio).
+Este `libro` fue creado como un soporte para el aprendizaje del software R (y R Studio) y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
+
+Lo más resaltante de este manuel es que:
 
 * **Presenta de una manera fácil y práctica los principales temas en estadística aplicada**
 * **Incorpora herramientas audiovisuales al proceso de aprendizaje de estadística en ciencias sociales**
