@@ -33,7 +33,7 @@ Lo más resaltante de este manual es:
 
 El presente manual fue una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú. 
 
-Para la construcción de este libro se utilizaron los paquetes de ´Knirt´ y ´RMarkdown´ de R Studio y el programa Github (control de versiones). 
+Para la construcción de este libro se utilizaron los paquetes de `Knirt` y `RMarkdown` de R Studio y el programa Github (control de versiones). 
 
 ## Sobre el autor
 Christian Chiroque Ruiz. Politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú PUCP y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Se desempeña como especialista en gestión social para proyectos de inversión y es docente de Estadística Aplicada para el análisis político en la Facultad de Ciencias Sociales de la PUCP.
