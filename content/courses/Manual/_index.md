@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Presentación
+linktitle: Prefacio
 summary: Este es un libro de la csm.
 weight: 1
 
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Presentación
+    name: Prefacio
     weight: 1
 ---
 # Manual de R para politólogos
@@ -26,10 +26,11 @@ menu:
 
 Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software R (y R Studio) y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
 
-Lo más resaltante de este manual es:
+Lo más resaltante de este manual:
 
 * **Presenta de una manera fácil, ordenada y práctica los principales temas en estadística aplicada**
 * **Incorpora videos al proceso de aprendizaje de estadística en ciencias sociales (canal de Youtube Data Política)**
+* **No pretende ser un libro teórico, sino una práctico. Se hará referencia a la teoría en la medida que ayude a tener una idea más clara de lo que se está trabajando el programa, sin embargo, no es su finalidad principal.**
 
 El presente manual fue una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú. 
 
