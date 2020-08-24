@@ -5,7 +5,7 @@ summary: Este es un libro de la csm.
 weight: 1
 
 # Page metadata.
-title: Data Política 
+title: Data Política
 date: "2020-08-01T00:00:00Z"
 lastmod: "2020-08-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -29,14 +29,15 @@ Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software
 Lo más resaltante de este manual:
 
 * **Presenta de una manera fácil, ordenada y práctica los principales temas en estadística aplicada**
-* **Incorpora videos al proceso de aprendizaje de estadística en ciencias sociales (canal de Youtube Data Política)**
-* **No pretende ser un libro teórico, sino una práctico. Se hará referencia a la teoría en la medida que ayude a tener una idea más clara de lo que se está trabajando el programa, sin embargo, no es su finalidad principal.**
+* **Incorpora material audiovisual al proceso de aprendizaje de estadística en ciencias sociales (videos del canal de Youtube Data Política, creado por el autor de este manual)**
+* **No pretende ser un libro teórico, sino una práctico. Se hará referencia a la teoría en la medida que ayude a tener una idea más clara de lo que se está trabajando en el programa, sin embargo, no es su finalidad principal.**
 
 El presente manual fue una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú. 
 
-Para la construcción de este libro se utilizaron los paquetes de `Knirt` y `RMarkdown` de R Studio y el programa Github (control de versiones). 
+Para la construcción de este libro se utilizaron 1) los paquetes de `Knirt` y `RMarkdown` de R Studio; 2) el programa Github para el control de versiones; y 3) Hugo Pages para el diseño del sitio web. 
 
 ## Sobre el autor
+
 Christian Chiroque Ruiz. Politólogo con estudios de maestría en Gerencia Social por la Pontificia Universidad Católica del Perú PUCP y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. Se desempeña como especialista en gestión social para proyectos de inversión y es docente de Estadística Aplicada para el análisis político en la Facultad de Ciencias Sociales de la PUCP.
 
 Es creador de Data Política (canal de youtube para la difusión de estadística aplicada) y cofundador de Leyendo el Poder (grupo de debate de teorías de ciencia política y estudios internacionales).
