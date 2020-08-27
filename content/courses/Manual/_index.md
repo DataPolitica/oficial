@@ -22,6 +22,8 @@ menu:
 ---
 # Manual de R para politólogos
 
+![Image](/cursos/0-0-0.jpg)
+
 ## Presentación
 
 Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software R (y R Studio) y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
