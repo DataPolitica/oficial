@@ -24,6 +24,7 @@ names(trabajadores)
 str(trabajadores$salario_actual)
 class(trabajadores)
 class(trabajadores$salario_actual)
+typeof(trabajadores$salario_actual)
 ```
 
 
