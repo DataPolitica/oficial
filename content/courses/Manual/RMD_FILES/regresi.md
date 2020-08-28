@@ -52,5 +52,12 @@ R Markdown
     ## Multiple R-squared:  0.7746, Adjusted R-squared:  0.7741 
     ## F-statistic:  1622 on 1 and 472 DF,  p-value: < 2.2e-16
 
+hhhh
+
+    modelo1$coefficients
+
+    ##     (Intercept) salario_inicial 
+    ##      1928.20576         1.90945
+
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.

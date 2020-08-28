@@ -39,5 +39,10 @@ cor.test(salario_actual,salario_inicial)
 modelo1=lm(salario_actual~salario_inicial,data=trabajadores)
 summary(modelo1)
 ```
+hhhh
+```{r}
+modelo1$coefficients
+```
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
