@@ -1,24 +1,5 @@
----
-title: Predecir con regresión lineal simple
-linktitle: Regresión lineal simple
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: false
-menu:
-  example:
-    parent: 7. Modelamiento
-    weight: 1
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
----
-
-Te sugiero revisar el siguiente tutorial para el cálculo de un modelo de regresión simple:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-p02G7NXlSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Paso 0: Solicitamos nuestra base de datos desde la nube
+R Markdown
+----------
 
     library(rio)
     base_trabajadores="https://github.com/DataPolitica/salidas/raw/master/Data/trabajadores.sav"
@@ -31,16 +12,9 @@ Te sugiero revisar el siguiente tutorial para el cálculo de un modelo de regres
     ##  [5] "catlab"          "salario_actual"  "salario_inicial" "antiguedad"     
     ##  [9] "experiencia"     "minoría"         "directivo"
 
-## Paso 1: Solicitamos un diagrama de dispersión
-
-En este caso vamos a seleccionar las dos variables (el salario inicial y salario final) y solicitar un diagrama de dispersión. 
-
     plot(salario_actual~salario_inicial)
 
-![Image](/cursos/7-1-1.jpg)
-
-## Paso 2: Solicitamos un diagrama de dispersión
-
+![](regresi_files/figure-markdown_strict/unnamed-chunk-3-1.png)
 
     cor.test(salario_actual,salario_inicial)
 
@@ -55,11 +29,6 @@ En este caso vamos a seleccionar las dos variables (el salario inicial y salario
     ## sample estimates:
     ##       cor 
     ## 0.8801175
-
-
-## Paso 3: Solicitamos el modelo
-
-
 
     modelo1=lm(salario_actual~salario_inicial,data=trabajadores)
     summary(modelo1)
@@ -83,18 +52,5 @@ En este caso vamos a seleccionar las dos variables (el salario inicial y salario
     ## Multiple R-squared:  0.7746, Adjusted R-squared:  0.7741 
     ## F-statistic:  1622 on 1 and 472 DF,  p-value: < 2.2e-16
 
-
-
-
-
-
-
-## Paso 1: Realizar un gráfico de dispersión
-
-
-
-
-
-## ...
-
-
+Note that the `echo = FALSE` parameter was added to the code chunk to
+prevent printing of the R code that generated the plot.

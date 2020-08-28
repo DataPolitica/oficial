@@ -1,0 +1,43 @@
+---
+title: "regresi"
+author: "Christian Chiroque"
+date: "27 de agosto de 2020"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+```{r}
+library(rio)
+base_trabajadores="https://github.com/DataPolitica/salidas/raw/master/Data/trabajadores.sav"
+trabajadores=import(base_trabajadores)
+attach(trabajadores)
+```
+
+
+```{r}
+names(trabajadores)
+```
+
+
+```{r}
+plot(salario_actual~salario_inicial)
+```
+
+
+```{r}
+cor.test(salario_actual,salario_inicial)
+```
+
+
+```{r}
+modelo1=lm(salario_actual~salario_inicial,data=trabajadores)
+summary(modelo1)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
