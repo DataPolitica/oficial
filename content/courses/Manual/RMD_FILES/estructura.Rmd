@@ -14,53 +14,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 library(rio)
-base_trabajadores="https://github.com/DataPolitica/salidas/raw/master/Data/trabajadores.sav"
-trabajadores=import(base_trabajadores)
+link="https://github.com/DataPolitica/salidas/raw/master/Data/eda.sav"
+EDA=import(link)
+
+names(EDA)
+
+class(EDA$confipolR)
+
+EDA$confipolR=ordered(EDA$confipolR)
+class(EDA$confipolR)
+levels(EDA$confipolR)
+levels(EDA$confipolR)<-c("Baja","Media", "Alta")
+levels(EDA$confipolR)
+
+
+
+
+
+
 ```
-
-```{r}
-dim(trabajadores)
-names(trabajadores)
-str(trabajadores$salario_actual)
-class(trabajadores)
-class(trabajadores$salario_actual)
-typeof(trabajadores$salario_actual)
-```
-
-```{r}
-x= c(1, 2, 3)
-x
-class(x)
-
-y=c("gato", "perro", "loro")
-y
-class(y)
-
-head(trabajadores)
-class(trabajadores)
-
-lista= c("gato", "cuy", "puerta")
-class(lista)
-
-
-x= c(4, 7, 9)
-x
-x[2]
-
-names(trabajadores)
-class(trabajadores$sexo)
-trabajadores$sexo = as.factor(trabajadores$sexo)
-class(trabajadores$sexo)
-
-levels(trabajadores$sexo)
-levels(trabajadores$sexo)<-c("Hombre","Mujer")
-levels(trabajadores$sexo)
-
-str(trabajadores$salario_actual)
-```
-
-
-
 
 
 
