@@ -27,6 +27,33 @@ class(trabajadores$salario_actual)
 typeof(trabajadores$salario_actual)
 ```
 
+```{r}
+x= c(1, 2, 3)
+x
+class(x)
+
+y=c("gato", "perro", "loro")
+y
+class(y)
+
+head(trabajadores)
+class(trabajadores)
+
+lista= c("gato", "cuy", "puerta")
+class(lista)
+
+
+x= c(4, 7, 9)
+x
+x[2]
+
+
+
+```
+
+
+
+
 
 
 
