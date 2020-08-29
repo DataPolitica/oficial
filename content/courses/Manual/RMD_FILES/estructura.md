@@ -89,5 +89,38 @@ R Markdown
 
     ## [1] 7
 
+    names(trabajadores)
+
+    ##  [1] "id"              "sexo"            "fechnac"         "educ"           
+    ##  [5] "catlab"          "salario_actual"  "salario_inicial" "antiguedad"     
+    ##  [9] "experiencia"     "minoría"         "directivo"
+
+    class(trabajadores$sexo)
+
+    ## [1] "numeric"
+
+    trabajadores$sexo = as.factor(trabajadores$sexo)
+    class(trabajadores$sexo)
+
+    ## [1] "factor"
+
+    levels(trabajadores$sexo)
+
+    ## [1] "0" "1"
+
+    levels(trabajadores$sexo)<-c("Hombre","Mujer")
+    levels(trabajadores$sexo)
+
+    ## [1] "Hombre" "Mujer"
+
+    str(trabajadores$salario_actual)
+
+    ##  num [1:474] 57000 40200 21450 21900 45000 ...
+    ##  - attr(*, "label")= chr "Salario actual"
+    ##  - attr(*, "format.spss")= chr "DOLLAR8"
+    ##  - attr(*, "display_width")= int 12
+    ##  - attr(*, "labels")= Named num 0
+    ##   ..- attr(*, "names")= chr "Ausente"
+
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.

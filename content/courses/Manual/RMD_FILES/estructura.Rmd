@@ -47,8 +47,16 @@ x= c(4, 7, 9)
 x
 x[2]
 
+names(trabajadores)
+class(trabajadores$sexo)
+trabajadores$sexo = as.factor(trabajadores$sexo)
+class(trabajadores$sexo)
 
+levels(trabajadores$sexo)
+levels(trabajadores$sexo)<-c("Hombre","Mujer")
+levels(trabajadores$sexo)
 
+str(trabajadores$salario_actual)
 ```
 
 
