@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Prefacio
-summary: Este es un libro de la csm.
+summary: Este libro tiene como objetivo ser un soporte para el aprendizaje del software R y R Studio y está especialmente dirigido para aquellos estudiantes de ciencias sociales y ciencia política.
 weight: 1
 
 # Page metadata.

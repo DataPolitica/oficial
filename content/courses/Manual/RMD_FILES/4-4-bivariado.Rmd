@@ -76,8 +76,6 @@ addmargins(tabla3)
 
 ## 2. Entre una variable numérica y otra categórica: edad y urbanorural
 
-- Descriptivos
-
 Para mostrar los descriptivos de una variable numérica según una variable categórica tenemos que considerar a esta última como grupos. De esta manera, lo que hacemos en realidad es la comparación de la numérica entre 2 o más grupos. 
 
 Para ello, utilizamos el paquete `psych()`
