@@ -26,7 +26,7 @@ menu:
 
 ## Presentación
 
-Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software R (y R Studio) y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
+Este `libro` tiene como objetivo ser un soporte para el aprendizaje del software R y R Studio y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. 
 
 Lo más resaltante de este manual:
 
@@ -46,7 +46,7 @@ Es creador de Data Política (canal de youtube para la difusión de estadística
 
 ## Sugerencia de citado
 
-Chiroque, Christian (2020) *Data Política - Manual de R para politólogos*. Lima.
+Chiroque, Christian (2020) *Data Política: Manual de R para politólogos*. Lima.
 
 
 
