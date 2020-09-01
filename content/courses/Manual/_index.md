@@ -5,7 +5,7 @@ summary: Este libro tiene como objetivo ser un soporte para el aprendizaje del s
 weight: 1
 
 # Page metadata.
-title: Data Política
+title: Manual de R para politólogos
 date: "2020-08-01T00:00:00Z"
 lastmod: "2020-08-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
