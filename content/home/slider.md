@@ -16,9 +16,18 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Especialista en investigación cuantitativa y gestión social"
+  title = "Especialista en Gestión Social para proyectos de inversión"
   content = "Experiencia en diagnósticos sociales en comunidades campesinas en diversas regiones del país"
   align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/fondo2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Análista de datos"
+  content = "Procesamiento, análisis y reporte de datos para diseño de políticas públicas y programas sociales"
+  align = "right"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "headers/fondo2.jpg"  # Image path relative to your `static/media/` folder.
