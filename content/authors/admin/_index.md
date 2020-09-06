@@ -3,7 +3,7 @@ title: Christian Chiroque
 authors:
 - admin
 superuser: true
-role: Politólogo y docente en Estadística Aplicada
+role: Especialista en Gestión Social y Analista de Datos. Docente en Estadística Aplicada en la PUCP
 organizations:
 - name: PUCP
   url: https://www.pucp.edu.pe/
