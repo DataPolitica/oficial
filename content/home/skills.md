@@ -30,7 +30,7 @@ subtitle = ""
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Docencia y capacitación"
-  description = "Dictado de cursos universitarios y realización de programas de capacitación"
+  description = "Dictado de cursos universitarios y realización de programas de capacitación y asesorías personalizadas"
 
 # Uncomment to use emoji icons.
 # [[feature]]
