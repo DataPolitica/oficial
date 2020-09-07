@@ -25,8 +25,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Análista de datos"
-  content = "Procesamiento, análisis y reporte de datos para diseño de políticas públicas y programas sociales"
+  title = "Analista de datos"
+  content = "Procesamiento, análisis y preparación de reportes dinámicos de datos para diseño de políticas públicas y proyectos de desarrollo"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.

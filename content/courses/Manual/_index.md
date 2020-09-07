@@ -5,7 +5,7 @@ summary: Este libro tiene como objetivo ser un soporte para el aprendizaje del s
 weight: 1
 
 # Page metadata.
-title: Manual de R Studio para politólogos
+title: Manual de R Studio para ciencias sociales
 date: "2020-08-01T00:00:00Z"
 lastmod: "2020-08-01T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -20,7 +20,7 @@ menu:
     name: Prefacio
     weight: 1
 ---
-# Presentación
+# Christian Chiroque Ruiz
 
 ![Image](/cursos/0-0-0.jpg)
 
