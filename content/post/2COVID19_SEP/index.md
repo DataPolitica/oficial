@@ -12,8 +12,8 @@ tags:
 categories:
 - Análisis de datos
 
-date: "2020-09-09T00:00:00Z"
-lastmod: "2019-09-09T00:00:00Z"
+date: "2020-09-05T00:00:00Z"
+lastmod: "2019-09-05T00:00:00Z"
 featured: false
 draft: false
 
