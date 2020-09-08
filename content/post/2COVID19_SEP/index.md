@@ -47,11 +47,11 @@ Teniendo en cuenta el tamaño de la población, podemos calcular el número de c
 
 Hasta el momento se ha podido observar dos picos en la línea de número de casos registrados por día: el primero el 30 de mayo (8,805) y el segundo el 15 de agosto (10,143). Este segundo crecimiento se debió en gran parte al término de las medidas de cuarentena establecidas por el Gobierno. Sin embargo, cabe mencionar que se ha visto una ligera disminución en el promedio del número de casos registrados en las últimas cuatro semanas: del 10 al 16 de agosto, 8,337 casos; del 17 al 23, 8,420 casos; del 24 al 30, 7,371 casos; y del 31 de agosto a 6 de septiembre 5,648 casos.
 
-![Image](/posts/2covid/1.png)
+![Image](/posts/2covid/2.png)
 
 El MINSA ha registrado hasta el momento 29,838 fallecimientos, lo cual significada una letalidad de 4.32%. Sobre el número de fallecidos también se ha podido ver una disminución entre el promedio registrado por día durante las últimas cuatro semanas: semana del 10 al 16 de agosto, 181.7 casos; del 17 al 23, 168.8; del 24 al 30, 161.5; y del 31 de agosto a 6 de septiembre 149 casos. 
 
-![Image](/posts/2covid/2.png)
+![Image](/posts/2covid/1.png)
 
 Sobre el número de fallecimientos, Lima también lidera la lista con 12,054 muertes, seguida de La Libertad, con 2,096; y Piura, con 1,853. De la misma manera, las regiones con una mayor letalidad se encuentran principalmente en la costa norte. Lideran el ranking La Libertad, con 8.83% de letalidad; Lambayeque, con 6.99%; Ica, con 6.56%; Áncash, con 6.17% y Piura con 6.04% de letalidad. 
 
