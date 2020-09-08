@@ -1,6 +1,6 @@
 ---
-title: 'Análisis de tendencia del COVID-19 a nivel nacional'
-subtitle: 'Análisis de tendencia del COVID-19 a nivel nacional'
+title: 'COVID-19 en el Perú'
+subtitle: 'Análisis de tendencia'
 summary: En este post se discutirán los principales indicadores epidemiológicos para poder analizar la situación de la pandemia del COVID-19 en el Perú.
 authors:
 - admin
