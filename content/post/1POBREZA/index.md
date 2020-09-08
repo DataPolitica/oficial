@@ -10,7 +10,7 @@ tags:
 - Pobreza monetaria
 - Estadística
 categories:
-- Artículo de opinión
+- Análisis de datos
 
 date: "2020-03-03T00:00:00Z"
 lastmod: "2019-03-03T00:00:00Z"
