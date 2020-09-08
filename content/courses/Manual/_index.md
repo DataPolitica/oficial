@@ -44,7 +44,7 @@ Es creador de Data Política (canal de youtube para la difusión de estadística
 
 ## Sugerencia de citado
 
-Chiroque, Christian (2020) *Data Política: Manual de R para politólogos*. Lima.
+Chiroque, Christian (2020) *Manual de R Studio para ciencias sociales*. Lima.
 
 
 
