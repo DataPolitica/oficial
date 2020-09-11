@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Especialista en Gestión Social para proyectos de inversión"
-  content = "Experiencia en diagnósticos sociales en comunidades campesinas en diversas regiones del país"
+  content = "Elaboración de diagnósticos sociales en comunidades campesinas en diversas regiones del país"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -26,11 +26,11 @@ height = ""
 
 [[item]]
   title = "Analista de datos"
-  content = "Procesamiento, análisis y preparación de reportes dinámicos de datos para diseño de políticas públicas y proyectos de desarrollo"
+  content = "Procesamiento, análisis y visualización de datos para la toma de decisiones en políticas públicas y proyectos de desarrollo"
   align = "right"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/fondo2.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/bigdata.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -41,7 +41,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/fondo1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/youtube.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
