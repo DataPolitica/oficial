@@ -34,8 +34,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Creador de Data Política"
-  content = "Un espacio para el aprendizaje de estadística aplicada"
+  title = "Director de Data Política"
+  content = "Un espacio para la difusión y el aprendizaje de estadística aplicada a las ciencias sociales"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
