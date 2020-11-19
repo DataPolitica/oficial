@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "share-alt"
   icon_pack = "fas"
-  name = "Análisis en Gestión Social"
-  description = "Realización de estudios sociales y diseño de herramientas de gestión social para proyectos de inversión en diversas regiones del país"
+  name = "Análisis en Gestión Social para proyectos de inversión"
+  description = "Realización de estudios sociales y diseño de herramientas de gestión social para proyectos de inversión en diversas regiones del país, incluyendo trabajo de gabinete y de campo. Experiencia en el sector minero."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Estadística aplicada y análisis de datos"
-  description = "Diseño e implementación de análisis cuantitativos y presentación de datos aplicados a las ciencias sociales"  
+  name = "Análisis de datos"
+  description = "Diseño e implementación de análisis cuantitativos y presentación de datos aplicados a las ciencias sociales y políticas públicas"  
   
 [[feature]]
   icon = "laptop-code"
