@@ -12,7 +12,7 @@ bio: Politólogo con estudios de maestría en Gerencia Social y especialista de 
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ChristianChiro3
+  link: https://twitter.com/DateroPolitico
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A
