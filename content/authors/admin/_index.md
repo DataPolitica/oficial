@@ -22,6 +22,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/christianchr/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ChristianChiroqueR
 email: ''
 user_groups:
 - Researchers
