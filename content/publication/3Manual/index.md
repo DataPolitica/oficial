@@ -1,39 +1,34 @@
 ---
-title: "Data Política: manual de R para estadística aplicada al análisis político"
+title: "Alcances y limitaciones de los mecanismos de coordinación gubernamental en la política anticorrupción: el caso de la Oficina de Fortalecimiento Ético y Lucha contra la Corrupción en Sunat"
 authors:
 - admin
 author_notes:
 - ""
-date: "2020-10-08T00:00:00Z"
+date: "2017-08-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-10-11T00:00:00Z"
+publishDate: "2020-08-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Data Política* Lima"
+publication: "*Revista de Ciencia Política y Gobierno, 4*(8). Lima: Pontificia Universidad Católica del Perú"
 publication_short: ""
 
-abstract: Este libro tiene como objetivo ser un soporte para el aprendizaje del software R, a través del IDE R Studio, y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular. Lo más resaltante de este manual:
-Presenta de una manera fácil, ordenada y práctica los principales temas en estadística aplicada 
-Incorpora material audiovisual al proceso de aprendizaje de estadística en ciencias sociales (videos del canal de Youtube Data Política, creado por el autor de este manual)
-No pretende ser un libro teórico, sino una práctico. Se hará referencia a la teoría en la medida que ayude a tener una idea más clara de lo que se está trabajando en el programa, sin embargo, no es su finalidad principal.
-El presente manual fue una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú (cursos Estadística para el Análisis Política 1 y 2).
-Para la construcción de este libro se utilizaron 1) los paquetes de Bookdown y RMarkdown de R Studio; 2) y el programa Git y la plataforma Github para el control de versiones y Github Pages.
+abstract: Desde mediados del año 2000, salió a la luz una compleja red de corrupción que capturó a diversas entidades del Estado en la década de 1990, lo que generó el surgimiento de una serie de iniciativas de política vinculadas con la lucha contra la corrupción. Durante ese periodo, la Superintendencia Nacional de Aduanas y de Administración Tributaria (Sunat) fue una de las instituciones que estuvo inmersa en casos de gran corrupción, asimismo se ha constituido como una entidad con alto riesgo en la incidencia de casos de corrupción hasta la actualidad. Por ello, desde 2012 se puso en funcionamiento la Oficina de Fortalecimiento Ético y Lucha contra la Corrupción, la cual tiene por objetivo el desarrollo de acciones de prevención y control de la corrupción dentro de los procesos institucionales de la institución. El presente artículo tiene como objetivo identificar los mecanismos de coordinación gubernamental usados en la implementación de políticas anticorrupción dentro de la Sunat, durante el periodo 2012-2015. Asimismo, se busca describir cuáles fueron las principales limitaciones que se presentaron durante dicho proceso. Según los resultados de la investigación, entre las principales limitaciones se encuentran (i) la influencia política de la alta dirección durante la investigación de casos de corrupción, (ii) el solapamiento de distintos dispositivos de política anticorrupción, (iii) vacíos dentro del funcionamiento del Órgano de Control Institucional (OCI), (iv) ineficientes sistemas de identificación de riesgos de corrupción, (v) desiguales capacidades técnicas entre las áreas encargadas de la política, (vi) así como limitados recursos logísticos y presupuestales.
 
 # Summary. An optional shortened abstract.
-summary: Este libro tiene como objetivo ser un soporte para el aprendizaje del software R, a través del IDE R Studio, y está especialmente dirigido para aquellos estudiantes de ciencias sociales, en general, y ciencia política, en particular.
+summary: El presente artículo tiene como objetivo identificar los mecanismos de coordinación gubernamental usados en la implementación de políticas anticorrupción dentro de la Sunat, durante el periodo 2012-2015. Asimismo, se busca describir cuáles fueron las principales limitaciones que se presentaron durante dicho proceso.
 
 tags:
-- Estadística aplicada
-- R Studio y lenguaje de programación
-- Métodos cuantitativos aplicados
+- Corrupción
+- Políticas públicas
+- Análisis de riesgo
 featured: false
 
 # links:
