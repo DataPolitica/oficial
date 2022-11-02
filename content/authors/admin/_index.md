@@ -3,7 +3,7 @@ title: Christian Chiroque
 authors:
 - admin
 superuser: true
-role: Especialista en Gestión Social y Analista de Datos. Docente de Estadística Aplicada en la PUCP
+role: Padre, politólogo y data scientist
 organizations:
 - name: PUCP
   url: https://www.pucp.edu.pe/
@@ -33,8 +33,10 @@ user_groups:
 ---
 ¡Bienvenid@s! Mi nombre es Christian Chiroque y en esta página podrás encontrar información sobre mi perfil académico, artículos de opinión y material de docencia. 
 
-Soy licenciado en ciencia política y gobierno con estudios de maestría en Gerencia Social por la [Pontificia Universidad Católica del Perú PUCP](https://www.pucp.edu.pe/) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. También estoy cursando la maestría de Estadística Aplicada en la Universidad Nacional Agraria La Molina.
+Soy Licenciado en Ciencia Política y Gobierno con estudios de maestría en Gerencia Social por la [Pontificia Universidad Católica del Perú PUCP](https://www.pucp.edu.pe/) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. También estoy cursando la maestría de Estadística Aplicada en la Universidad Nacional Agraria La Molina.
 
-Actualmente me desempeño como Especialista en Gestión Social para proyectos de inversión y soy docente en la Facultad de Ciencias Sociales de la PUCP. 
+Mis principales áreas de interés son: economías ilegales, crimen organizado, políticas públicas, métodos cuantitativos aplicados, machine learning, análisis de riesgo.
+
+Actualmente me desempeño como analista para la Superintendencia de Banca y Seguros del Perú, así como docente en el Laboratorio de Inteligencia Artificial y Métodos Computacionales en Ciencias Sociales - PUCP. 
 
 Soy director de [Data Política](https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A) y cofundador de [Leyendo el Poder](https://www.facebook.com/leyendoelpoder/).
