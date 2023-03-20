@@ -15,8 +15,18 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
 [[item]]
-  title = "Especialista en Gestión Social para proyectos de inversión"
+  title = "Data Scientist"
+  content = "Procesamiento, análisis y visualización de datos para la toma de decisiones en políticas públicas y proyectos de desarrollo"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/w1.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "Especialista en gestión social"
   content = "Elaboración de diagnósticos sociales en comunidades campesinas en diversas regiones del país"
   align = "left"
 
@@ -25,17 +35,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Analista de datos"
-  content = "Procesamiento, análisis y visualización de datos para la toma de decisiones en políticas públicas y proyectos de desarrollo"
-  align = "right"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/w1.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "Director de Data Política"
-  content = "Un espacio para la difusión y el aprendizaje de estadística aplicada a las ciencias sociales"
+  title = "Data Política"
+  content = "Aprendamos Estadística, Data Science e Inteligencia Artificial. "
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
