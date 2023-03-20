@@ -26,6 +26,15 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Especialista en inteligencia financiera"
+  content = "Experiencia en análisis y diseño de políticas públicas contra delitos financieros"
+  align = "left"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "headers/crimes.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Especialista en gestión social"
   content = "Elaboración de diagnósticos sociales en comunidades campesinas en diversas regiones del país"
   align = "left"
