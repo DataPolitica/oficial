@@ -31,7 +31,7 @@ user_groups:
 - Visitors
 
 ---
-¡Bienvenid@s! Mi nombre es Christian Chiroque y en esta página podrás encontrar información sobre mi perfil académico, artículos de opinión y material de docencia. 
+¡Bienvenid@s! Mi nombre es Christian Chiroque Ruiz y en esta página podrás encontrar información sobre mi perfil académico, artículos de opinión y material de docencia. 
 
 Soy Licenciado en Ciencia Política y Gobierno con estudios de maestría en Gerencia Social por la [Pontificia Universidad Católica del Perú PUCP](https://www.pucp.edu.pe/) y especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática ENEI. También estoy cursando la maestría de Estadística Aplicada en la Universidad Nacional Agraria La Molina.
 
